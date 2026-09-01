@@ -207,4 +207,4 @@ int main()
 <img width="1759" height="357" alt="Screenshot 2026-09-01 081935" src="https://github.com/user-attachments/assets/81d29beb-4689-48ba-b0a6-c1e5f86cf359" />
 
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took0.000173 time.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took0.000180 time.
